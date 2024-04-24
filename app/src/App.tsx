@@ -28,6 +28,9 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      <p>
+        New change by Tim to kick off a new SWA build and deployment
+      </p>
     </>
   )
 }
