@@ -29,7 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <p>
-        New change by Tim to kick off a new SWA build and deployment
+        New change by Tim to kick off a new SWA build and deployment. New Change to open a PR for.
       </p>
     </>
   )
